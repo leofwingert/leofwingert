@@ -1,5 +1,3 @@
-# Hi 👋, I'm Leonardo Wingert
-
 ![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNraGwzZXJyZXU0NHRiaHJwdmxjem9iMmttZHBtY25leXQ4d29nYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJXzadwbexJEAZ9S1B/giphy.gif)
 
 - 👨‍💻 All of my projects are available at **[https://leowingert.dev](https://leowingert.dev)**
