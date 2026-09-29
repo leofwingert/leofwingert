@@ -1,7 +1,6 @@
 # Hi 👋, I'm Leonardo Wingert
 
-<p align="left"> <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/d4fff5c0-9b26-4b66-b99d-b025b5656491" />
-</p>
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNraGwzZXJyZXU0NHRiaHJwdmxjem9iMmttZHBtY25leXQ4d29nYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJXzadwbexJEAZ9S1B/giphy.gif)
 
 - 👨‍💻 All of my projects are available at **[https://leowingert.dev](https://leowingert.dev)**
 
