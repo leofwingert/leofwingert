@@ -10,7 +10,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,rust,spring,react,nextjs,nodejs,postgres,mongodb,docker,linux,scikitlearn" alt="Skills" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,spring,react,nextjs,nodejs,postgres,mongodb,docker,linux" alt="Skills" />
 </p>
